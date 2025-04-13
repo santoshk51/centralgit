@@ -3,6 +3,10 @@ const name = 'santosh sharma'
 const dob = '22/09/2003'
 
 function sayName() {
-	console.log('My name is ' + name);
+	console.log('My name is ' + name1);
 	
+}
+
+function isAbove18(){
+	return age >= 18
 }
