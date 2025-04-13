@@ -1,3 +1,3 @@
 function sayhello(){
-	console.log('Hello bhai')
+	console.log(` ok ${name1}`)
 }
