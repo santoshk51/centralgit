@@ -7,3 +7,6 @@ function sayName() {
 	
 }
 
+function newFun(){
+	console.log('My name is sk')
+}
