@@ -3,7 +3,7 @@ name: Deploy Static Website to AWS
 on:
   push:
     branches:
-      - main  # or your branch name
+      - master  # or your branch name
 
 jobs:
   deploy:
